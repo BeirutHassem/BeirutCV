@@ -1,0 +1,63 @@
+.page{
+width:780px;
+margin:auto;
+font-family:'Source sans Pro',Calibri,Tahama,sans-ser;
+font-size: 16px;
+border:5px solid #3388cc;
+border-radius: 10px;
+box-shadow: 2px 3px 4px black;
+padding: 20px;
+}
+.infophoto{
+height: 250px;
+}
+
+.information{
+float:left;
+
+}
+.photo{
+float:right;
+
+}
+.section1{
+	margin-bottom: 80px;
+	text-align: justify;
+}
+.section11{
+float: left;
+font-weight: bold; 
+font-size:20px;
+
+}
+.section12{
+
+	margin-left: 150px;
+	margin-top: 38px;
+}
+h2{
+	font-size: 28px;
+	color:#3388BB;
+	border-bottom: 3px solid #3388DD;
+}
+.edu{
+	font-weight: bold;
+	font-size: 20px;
+}
+.section2{
+	margin-bottom: 80px;
+	text-align: justify;
+}
+.section3{
+	font-weight: bold;
+	font-size: 20px;
+}
+.ed{
+	
+	font-size: 20px;
+}
+.section4{
+	font-weight: bold;
+	font-size: 20px;
+	
+}
