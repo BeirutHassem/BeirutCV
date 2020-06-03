@@ -1,2 +1,2 @@
-# BeirutCV
-CV
+# Beirut
+
